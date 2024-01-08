@@ -122,7 +122,7 @@ def printImg(byteInput):
 import requests
 import os
 # Specify the URL where you want to send the POST request
-url = 'http://himanshu309.pythonanywhere.com/compress'
+url = 'http://localhost:5051/compress'
 
 # Replace 'your_image.jpg' with the path to your image file
 image_path = 'C:/Users/Himanshu/Downloads/python_API/python_API/faceDetected/1.png'
